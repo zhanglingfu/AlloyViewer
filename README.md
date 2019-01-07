@@ -155,3 +155,5 @@ SingleImgView.show({
 
 ## License
 Copyright(c) 2016-2017 AlloyTeam. Licensed under MIT license.
+
+请问作者：为什么原生的无法进行 手势缩放？？？
